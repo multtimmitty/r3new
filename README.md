@@ -21,4 +21,4 @@ Example of execute
 
       ./r3new.sh -n <new name> -d <directory>
 
-# Multtimy
+#By multtimy
